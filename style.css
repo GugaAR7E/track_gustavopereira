@@ -39,9 +39,77 @@ h1 {
     font-family: 'preconnect', sans-serif ;
 }
 
+a {
+    text-decoration: none;
+}
+
+#volta {
+    display: flex;
+}
+
+#volta h2 {
+   
+    margin: 40px;
+}
+
+#retornoum {
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 20px;
+    
+}
+
+#principal {
+   margin: 50px;
+
+}
+
+#principal img {
+    width: 350px;
+}
+
+#secundaria {
+    margin: 50px;
+    
+}
+
+#secundaria img {
+    width: 350px;
+}
 
 
+#terciaria {
+    margin: 50px;
+    
+}
 
+#terciaria img {
+    width: 350px;
+}
 
+#mainum {
+    display: flex;
+}
 
+.track {
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 20px;
+}
 
+.strong {
+    margin-right: 3px;
+}
+
+.musk {
+    display: flex;
+    margin: 10px;
+}
+
+.imgchuteiras {
+    width: 350px;
+}

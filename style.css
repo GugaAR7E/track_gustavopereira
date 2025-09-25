@@ -15,6 +15,7 @@ header {
   
 }
 
+
 header nav {
     display: flex;
     flex-direction: column;
@@ -223,4 +224,3 @@ font-family: 'Lora', sans-serif;
     font-size: 20px;
     font-family: 'Inter', sans-serif;
 }
-
